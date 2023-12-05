@@ -1,0 +1,12 @@
+#box1, #box2, #box3{
+    border: solid 2px orange;
+    padding: 20px;
+    margin: 0 auto;
+    width: 800px;
+}
+img{
+    width: 300px;
+    height: 400px;
+}
+#box2{text-align: right;}
+#box3{text-align: center;}

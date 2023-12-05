@@ -1,0 +1,37 @@
+#header, #sidebar, #section, #footer{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+#wrap{
+    width: 800px;
+    margin: 0 auto;
+}
+#header{
+    height: 60px;
+    background-color: aliceblue;
+}
+#sidebar{
+    width: 200px;
+    height: 300px;
+    float: left;
+    background-color: skyblue;
+}
+#section{
+    width: 600px;
+    height: 300px;
+    float: right;
+    background-color: snow;
+}
+#footer{
+    clear: both;
+    height: 60px;
+    background-color: #dddddd;
+}
+h2{
+    background-color: aquamarine;
+    height: 60px;
+    margin: 0 auto;
+    
+}

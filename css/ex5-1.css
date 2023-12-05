@@ -1,0 +1,10 @@
+body {
+    margin:0px;
+    background-color: aliceblue;
+}
+p {
+
+    margin:25px;
+    border: dotted yellowgreen;
+    padding: 30px;
+}

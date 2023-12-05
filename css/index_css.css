@@ -1,0 +1,37 @@
+
+#title_box{
+
+    margin: 20px auto;
+    width: 90dvb;
+}
+
+
+a{ text-decoration-line:none;
+    text-decoration-color:blueviolet ;
+}
+a:link{
+    color:blue;
+}
+a:visited{
+    color:red;
+}
+a:hover{
+    background-color:lightgoldenrodyellow;
+}
+
+ul{
+    list-style: none; 
+}
+
+.subject{
+    background-color:  rgb(252, 229, 233);
+    border-radius: 10px;
+    border: solid 2px lightpink;
+    margin: 20px auto;
+    width: 100dvb;
+    padding: 10px;
+}
+.subject>h4{
+    margin:  10px;
+}
+

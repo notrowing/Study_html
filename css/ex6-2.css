@@ -1,0 +1,21 @@
+h3{
+    font-size: 25px;
+    font-style: italic;
+    margin-top: 30px;
+}
+span{
+    font-weight: bold;
+    color: red;
+}
+h1{
+    text-decoration: underline;
+    color: green;
+}
+p{
+    line-height: 150%;
+    font-size: 18px;
+}
+body{
+    font-family: "돋움";
+    color: #444444;
+}

@@ -1,0 +1,15 @@
+div{
+    width:400px;
+    margin: 20px;
+    border: solid 1px black;
+    padding: 20px;
+    box-shadow: 5px 5px 10px #888888;
+}
+h3{
+    margin:0px;
+    padding: 0px;
+    border-color: azure;
+    background-color: azure;
+    color:skyblue;
+    text-align: center;
+}

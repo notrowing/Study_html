@@ -1,0 +1,17 @@
+p{
+    line-height: 180%;
+}
+.green_bold{
+    color:green;
+    font-weight: bold;
+}
+.red_underline{
+    color: red;
+    text-decoration: underline;
+}
+.contents{
+    border:solid 1px dodgerblue;
+    padding:20px;
+    width: 800px;
+    box-shadow: 5px 5px 20px #888888;
+}

@@ -1,0 +1,41 @@
+#header, #section, #footer{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+#wrap{
+    width: 800px;
+    margin: 0 auto;
+}
+#header{
+    height: 60px;
+    background-color: aliceblue;
+}
+#sidebar{
+    width: 200px;
+    height: 400px;
+    float: left;
+    text-align: left;
+    padding-top: 30px;
+    background-color: skyblue;
+}
+#section{
+    font-size: 15px;
+    width: 600px;
+    height: 400px;
+    float: right;
+    background-color: snow;
+}
+#footer{
+    clear: both;
+    height: 60px;
+    background-color: #dddddd;
+}
+h2{
+    color: white;
+    height: 60px;
+    margin: 0 auto;
+    background-image: url(https://i.namu.wiki/i/oU0avPQmlPv0p13BPnuEqyzmtGl9SoTArdKVYpb1r5CYXrpUjEqtiurvlFDjpXdOMyDXwIFYpz0x3PgtS92_8A.webp);
+    
+}

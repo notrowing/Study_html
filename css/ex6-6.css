@@ -1,0 +1,26 @@
+div{
+    padding: 30px;
+    width:900px;
+
+}
+
+#main h3{
+  border-left:solid 7px orange;
+
+
+}
+#intro{
+    border: solid 2px green;
+    border-radius: 20px;
+    padding: 30px;
+    width: 900px;
+    margin-top: 30px;
+
+}
+
+#intro span{
+    color: red;
+}
+#intro h3{
+    border-bottom: solid 2px #888888;
+}

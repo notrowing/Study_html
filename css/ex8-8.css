@@ -1,0 +1,18 @@
+div{
+    font-size: 17px;
+    font-weight: 100rem;
+    text-align: center;
+    background-color: yellow;
+}
+#b { 
+	position: absolute;
+	left: 30px;
+	top: 30px;
+}
+#parent {
+	width: 350px;
+	height: 200px;
+	position: relative;
+	border: solid 1px red;
+	padding: 90px 0 0 60px;
+}

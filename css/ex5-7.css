@@ -1,0 +1,17 @@
+*{
+    margin:0px;
+}
+p{
+    line-height: 200%;
+    padding: 30px;
+    border: solid 2px skyblue;
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+h3{
+    line-height: 200%;
+    padding: 30px;
+    border: solid 2px skyblue;
+    background-color: aliceblue;
+    border-radius: 20px;
+}

@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    box-sizing: border-box;
+}
+#wrap{
+    padding: 0;
+    text-align: center;
+    width:1200px;
+}
+
+#header{
+    width: 100%;
+    height: 100px;
+    margin: 0 auto;
+}
+#mainimage{
+    background-color: aliceblue;
+    width: 100%;
+    height:100px;
+    text-align: center;
+}
+#sidebar{
+    width: 20%;
+    height:600px;
+    float: left;
+    margin: 0 auto;
+}
+#section{
+    height: 600px;
+    width: 80%;
+    float: right;
+}
+#footer{
+    background-color: navy;
+    color:white;
+    clear: both;
+    width: 100%;
+    height: 200px;
+}
+#headtitle{
+    width: 40%;
+    float:left;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 30px;
+}
+#headbox1{
+    float: right;
+    font-size: 15px;
+}
+#headbox2{
+    float: right;
+    font-size: 20px;
+}
+.navi ul li{
+    float: left;
+}
+.navi ul {
+    list-style: none;
+}
+.navi a:link, .navi a:visited{
+    display: block;
+    padding: 10px;
+    margin: 0 10px;
+    color: #000;
+    text-decoration: none;
+    text-align: center;
+}
+.navi a:hover, .navi a:focus{
+    background-color: skyblue;
+    color: #fff;
+    border-radius: 25%;
+}
+
+#sidebar .title1{
+    padding:12px;
+    background-color: #0ca9a3;
+    color: white;
+    font-size: 20px;
+
+
+}
+#sidebar .comment{
+    padding: 20px 10px;
+    line-height: 150%;
+}
+
+#sidebar .title2{
+    padding: 12px;
+    border-top: solid 2px black;
+    border-bottom: solid 1px #cccccc;
+    font-size: 18px;
+}
+#sidebar .title3{
+    padding: 12px;
+    border: dotted 3px green;
+    font-size: 18px;
+}
+
+#sidebar .list{
+    margin: 20px 0;
+}
+#sidebar .list ul{
+    list-style: none;
+}
+
+#sidebar .list a:link, #sidebar .list a:visited{
+    text-decoration: none;
+    display: block;
+    padding:10px;
+    margin:0 auto;
+    color: black;
+    text-align: center;
+
+}
+#sidebar .search{
+    font-size: 10px;
+    padding: 12px;
+    width: 100%;
+}
